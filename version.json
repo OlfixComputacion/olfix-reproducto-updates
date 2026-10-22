@@ -1,9 +1,9 @@
 {
-    "version":  "2.1.0",
+    "version":  "2.1.1",
     "releaseDate":  "2026-10-22",
-    "downloadUrl":  "https://github.com/OlfixComputacion/olfix-reproducto-updates/releases/download/v2.1.0/Olfix-Reproducto_v2.1.0_update.zip",
-    "releaseNotes":  "*   Feature: Menú de clic derecho sobre el video (también sobre la carátula en\n    modo audio y en pantalla completa): reproducir/pausar, detener, anterior,\n    siguiente, velocidad, repetir, aleatorio, modo solo audio, pantalla\n    completa, descargar video (MP4) o audio (MP3), guardar captura de la\n    imagen (en Imágenes\\Olfix-Reproducto), copiar enlace, copiar enlace en el\n    minuto actual, abrir en YouTube en ese momento, añadir a la lista y volver\n    a cargar el video.\n*   Feature: Diseño más definido. Los botones tienen relleno y borde en\n    reposo (antes parecían texto suelto). Líneas que separan la barra del tema\n    actual, los controles y los encabezados de las listas; divisores visibles\n    que se resaltan al pasar el mouse; listas con fondo propio.\n*   Feature: Barras de desplazamiento más gruesas y visibles en Resultados y\n    en la lista de reproducción, con resaltado al pasar el mouse y al\n    arrastrar.\n*   Fix: La lupa y la X del buscador tapaban la forma redondeada con un\n    cuadrado.\n*   Fix: Barra de desplazamiento horizontal que aparecía sin motivo en las\n    listas.",
+    "downloadUrl":  "https://github.com/OlfixComputacion/olfix-reproducto-updates/releases/download/v2.1.1/Olfix-Reproducto_v2.1.1_update.zip",
+    "releaseNotes":  "* Fix: Al abrir la app recién publicada una versión nueva no aparecía la ventana de actualización (GitHub servía el aviso de versión desde caché hasta 5 minutos); ahora se consulta al día.\n* Fix: Las novedades en la ventana de actualización se veían cortadas en renglones desparejos; ahora se acomodan al ancho, con viñetas.",
     "minRequiredVersion":  "0.0.0",
-    "sha256":  "05631fc5b1f3569201f030b69dd505ec894bc294003f6b1b741bc308bbbdcef0",
-    "size":  112489340
+    "sha256":  "c37dacec578a53c1474da0637eaf753f112b37033eea0b684bfe00108f70ebb4",
+    "size":  112491906
 }
